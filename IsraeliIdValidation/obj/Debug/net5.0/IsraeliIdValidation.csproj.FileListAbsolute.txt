@@ -1,0 +1,12 @@
+C:\Users\aviads\Desktop\Israeli id validation\IsraeliIdValidation\bin\Debug\net5.0\IsraeliIdValidation.deps.json
+C:\Users\aviads\Desktop\Israeli id validation\IsraeliIdValidation\bin\Debug\net5.0\IsraeliIdValidation.dll
+C:\Users\aviads\Desktop\Israeli id validation\IsraeliIdValidation\bin\Debug\net5.0\ref\IsraeliIdValidation.dll
+C:\Users\aviads\Desktop\Israeli id validation\IsraeliIdValidation\bin\Debug\net5.0\IsraeliIdValidation.pdb
+C:\Users\aviads\Desktop\Israeli id validation\IsraeliIdValidation\obj\Debug\net5.0\IsraeliIdValidation.csprojAssemblyReference.cache
+C:\Users\aviads\Desktop\Israeli id validation\IsraeliIdValidation\obj\Debug\net5.0\IsraeliIdValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aviads\Desktop\Israeli id validation\IsraeliIdValidation\obj\Debug\net5.0\IsraeliIdValidation.AssemblyInfoInputs.cache
+C:\Users\aviads\Desktop\Israeli id validation\IsraeliIdValidation\obj\Debug\net5.0\IsraeliIdValidation.AssemblyInfo.cs
+C:\Users\aviads\Desktop\Israeli id validation\IsraeliIdValidation\obj\Debug\net5.0\IsraeliIdValidation.csproj.CoreCompileInputs.cache
+C:\Users\aviads\Desktop\Israeli id validation\IsraeliIdValidation\obj\Debug\net5.0\IsraeliIdValidation.dll
+C:\Users\aviads\Desktop\Israeli id validation\IsraeliIdValidation\obj\Debug\net5.0\ref\IsraeliIdValidation.dll
+C:\Users\aviads\Desktop\Israeli id validation\IsraeliIdValidation\obj\Debug\net5.0\IsraeliIdValidation.pdb
