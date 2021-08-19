@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aviads\\Desktop\\Israeli id validation\\ValidationLibraryTests\\ValidationLibraryTests.csproj": {}
+    "C:\\Users\\aviad\\OneDrive\\שולחן העבודה\\New folder\\IsraeliIdValidation\\ValidationLibraryTests\\ValidationLibraryTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aviads\\Desktop\\Israeli id validation\\IsraeliIdValidation\\IsraeliIdValidation.csproj": {
+    "C:\\Users\\aviad\\OneDrive\\שולחן העבודה\\New folder\\IsraeliIdValidation\\IsraeliIdValidation\\IsraeliIdValidation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aviads\\Desktop\\Israeli id validation\\IsraeliIdValidation\\IsraeliIdValidation.csproj",
+        "projectUniqueName": "C:\\Users\\aviad\\OneDrive\\שולחן העבודה\\New folder\\IsraeliIdValidation\\IsraeliIdValidation\\IsraeliIdValidation.csproj",
         "projectName": "IsraeliIdValidation",
-        "projectPath": "C:\\Users\\aviads\\Desktop\\Israeli id validation\\IsraeliIdValidation\\IsraeliIdValidation.csproj",
-        "packagesPath": "C:\\Users\\aviads\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aviads\\Desktop\\Israeli id validation\\IsraeliIdValidation\\obj\\",
+        "projectPath": "C:\\Users\\aviad\\OneDrive\\שולחן העבודה\\New folder\\IsraeliIdValidation\\IsraeliIdValidation\\IsraeliIdValidation.csproj",
+        "packagesPath": "C:\\Users\\aviad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aviad\\OneDrive\\שולחן העבודה\\New folder\\IsraeliIdValidation\\IsraeliIdValidation\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\aviads\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aviad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,24 +54,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\aviads\\Desktop\\Israeli id validation\\ValidationLibraryTests\\ValidationLibraryTests.csproj": {
+    "C:\\Users\\aviad\\OneDrive\\שולחן העבודה\\New folder\\IsraeliIdValidation\\ValidationLibraryTests\\ValidationLibraryTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aviads\\Desktop\\Israeli id validation\\ValidationLibraryTests\\ValidationLibraryTests.csproj",
+        "projectUniqueName": "C:\\Users\\aviad\\OneDrive\\שולחן העבודה\\New folder\\IsraeliIdValidation\\ValidationLibraryTests\\ValidationLibraryTests.csproj",
         "projectName": "ValidationLibraryTests",
-        "projectPath": "C:\\Users\\aviads\\Desktop\\Israeli id validation\\ValidationLibraryTests\\ValidationLibraryTests.csproj",
-        "packagesPath": "C:\\Users\\aviads\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aviads\\Desktop\\Israeli id validation\\ValidationLibraryTests\\obj\\",
+        "projectPath": "C:\\Users\\aviad\\OneDrive\\שולחן העבודה\\New folder\\IsraeliIdValidation\\ValidationLibraryTests\\ValidationLibraryTests.csproj",
+        "packagesPath": "C:\\Users\\aviad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aviad\\OneDrive\\שולחן העבודה\\New folder\\IsraeliIdValidation\\ValidationLibraryTests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\aviads\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aviad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\aviads\\Desktop\\Israeli id validation\\IsraeliIdValidation\\IsraeliIdValidation.csproj": {
-                "projectPath": "C:\\Users\\aviads\\Desktop\\Israeli id validation\\IsraeliIdValidation\\IsraeliIdValidation.csproj"
+              "C:\\Users\\aviad\\OneDrive\\שולחן העבודה\\New folder\\IsraeliIdValidation\\IsraeliIdValidation\\IsraeliIdValidation.csproj": {
+                "projectPath": "C:\\Users\\aviad\\OneDrive\\שולחן העבודה\\New folder\\IsraeliIdValidation\\IsraeliIdValidation\\IsraeliIdValidation.csproj"
               }
             }
           }
@@ -136,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

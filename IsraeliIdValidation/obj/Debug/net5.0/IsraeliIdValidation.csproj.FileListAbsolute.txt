@@ -10,3 +10,15 @@ C:\Users\aviads\Desktop\Israeli id validation\IsraeliIdValidation\obj\Debug\net5
 C:\Users\aviads\Desktop\Israeli id validation\IsraeliIdValidation\obj\Debug\net5.0\IsraeliIdValidation.dll
 C:\Users\aviads\Desktop\Israeli id validation\IsraeliIdValidation\obj\Debug\net5.0\ref\IsraeliIdValidation.dll
 C:\Users\aviads\Desktop\Israeli id validation\IsraeliIdValidation\obj\Debug\net5.0\IsraeliIdValidation.pdb
+C:\Users\aviad\OneDrive\שולחן העבודה\New folder\IsraeliIdValidation\IsraeliIdValidation\bin\Debug\net5.0\IsraeliIdValidation.deps.json
+C:\Users\aviad\OneDrive\שולחן העבודה\New folder\IsraeliIdValidation\IsraeliIdValidation\bin\Debug\net5.0\IsraeliIdValidation.dll
+C:\Users\aviad\OneDrive\שולחן העבודה\New folder\IsraeliIdValidation\IsraeliIdValidation\bin\Debug\net5.0\ref\IsraeliIdValidation.dll
+C:\Users\aviad\OneDrive\שולחן העבודה\New folder\IsraeliIdValidation\IsraeliIdValidation\bin\Debug\net5.0\IsraeliIdValidation.pdb
+C:\Users\aviad\OneDrive\שולחן העבודה\New folder\IsraeliIdValidation\IsraeliIdValidation\obj\Debug\net5.0\IsraeliIdValidation.csprojAssemblyReference.cache
+C:\Users\aviad\OneDrive\שולחן העבודה\New folder\IsraeliIdValidation\IsraeliIdValidation\obj\Debug\net5.0\IsraeliIdValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aviad\OneDrive\שולחן העבודה\New folder\IsraeliIdValidation\IsraeliIdValidation\obj\Debug\net5.0\IsraeliIdValidation.AssemblyInfoInputs.cache
+C:\Users\aviad\OneDrive\שולחן העבודה\New folder\IsraeliIdValidation\IsraeliIdValidation\obj\Debug\net5.0\IsraeliIdValidation.AssemblyInfo.cs
+C:\Users\aviad\OneDrive\שולחן העבודה\New folder\IsraeliIdValidation\IsraeliIdValidation\obj\Debug\net5.0\IsraeliIdValidation.csproj.CoreCompileInputs.cache
+C:\Users\aviad\OneDrive\שולחן העבודה\New folder\IsraeliIdValidation\IsraeliIdValidation\obj\Debug\net5.0\IsraeliIdValidation.dll
+C:\Users\aviad\OneDrive\שולחן העבודה\New folder\IsraeliIdValidation\IsraeliIdValidation\obj\Debug\net5.0\ref\IsraeliIdValidation.dll
+C:\Users\aviad\OneDrive\שולחן העבודה\New folder\IsraeliIdValidation\IsraeliIdValidation\obj\Debug\net5.0\IsraeliIdValidation.pdb
