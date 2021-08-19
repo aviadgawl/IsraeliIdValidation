@@ -7,7 +7,9 @@ Get the full Israeli id validation algorithm included with unit test project wri
 
 ### Get Started Immediately
 
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
+> **Note:** This quick started guid relies that dotnet core is installed.
+
+To get the project and run the units tests follow the next instructions:
 
 `
 git clone https://github.com/aviadgawl/IsraeliIdValidation.git
