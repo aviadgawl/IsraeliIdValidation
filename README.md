@@ -1,5 +1,5 @@
 # Welcome to IsraeliIdValidation!
-This repository was opened to help other programmers use    
+This repository was opened to help other programmers    
 
 ## Quick Overview
 
