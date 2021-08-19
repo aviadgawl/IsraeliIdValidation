@@ -10,5 +10,11 @@ Get the full Israeli id validation algorithm included with unit test project wri
 StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
 
 ``
-git clone
+git clone https://github.com/aviadgawl/IsraeliIdValidation.git
+``
+``
+cd ValidationLibraryTests
+``
+``
+dotnet test
 ``
